@@ -56,7 +56,7 @@ print("--------------------------------------------------------------")
 ```
 ## Output :
 
-<img width="691" height="352" alt="image" src="https://github.com/user-attachments/assets/10053460-a2b0-48d9-bc16-dcd1110ec9e2" />
+<img width="755" height="350" alt="image" src="https://github.com/user-attachments/assets/b28c490e-8ace-4f5e-b4a5-468b645b1f0e" />
 
 ## Result : 
   Thus the average number of material in the system and conveyors,waiting time of each material in system and conveyors found successfully.
